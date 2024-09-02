@@ -1,0 +1,112 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+}
+
+.firstClass {
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-decoration: none;
+}
+
+.web {
+  color: #4d5ae5;
+}
+
+.studio {
+  color: #2e2f42;
+}
+
+.Class2 {
+  font-family: "Roboto", sans-serif;
+  list-style: none;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+
+.Class2 a:hover {
+  color: #404bbf;
+}
+
+.Class2 a:focus {
+  color: #404bbf;
+}
+
+.Class2 a {
+  text-decoration: none;
+}
+
+.Class3 a {
+  font-family: "Roboto", sans-serif;
+  list-style: none;
+  text-decoration: none;
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+
+.sec-button {
+  background-color: #2e2f42;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  background-color: #2e2f42;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
+}
+
+button {
+  background-color: #4d5ae5;
+  width: 169px;
+  height: 56px;
+  top: 428px;
+  left: 636px;
+  border-radius: 4px;
+  padding: 16px, 32px, 16px, 32px;
+  gap: 10px;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
+}
+
+button:hover {
+  color: #404bbf;
+}
+
+button:focus {
+  color: #404bbf;
+}
+
+.sec-baslik h2 {
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: %2;
+}
+
+.sec-baslik p {
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: %2;
+}
